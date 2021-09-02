@@ -1,0 +1,31 @@
+
+.v1{
+    top:0px;
+    position: absolute;
+    width:1100px; 
+    height:6px; 
+    background: green }
+
+.button1 {
+    top :0 px;
+ 
+    background: green;
+    position: relative;
+}
+.button2 {
+    top :0 px;
+    background: green;
+    position: relative;
+}
+.button3 {
+    top :0 px;
+    background: green;
+    position: relative;
+}
+.v2{
+    top:580px;
+    position: absolute;
+    width:1100px; 
+    height:200px; 
+    background: brown }
+body {background-color: turquoise;}
